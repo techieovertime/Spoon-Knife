@@ -10,12 +10,9 @@
 }
 
 div {
-  display: block;
-  width: 400px;
-  margin: 50px auto;
   background-color: red;
   color: white;
   font-size: 32px;
   text-align: center;
-  text-emphasis: bold;
+  font-weight: bold;
 }
